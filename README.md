@@ -4,7 +4,7 @@
 > Sijia Chen, Yanqiu Yu, En Yu, Wenbing Tao                 
 > *[ArXiv] Paper ([https://arxiv.org/abs/2412.17807](https://arxiv.org/abs/2412.17807))*           
 
-We will fully open-source our **ReaMOT Challenge benchmark** (including its dataset and evaluation metrics code) and **ReaTrack framework** (including its code and model weights) **after the paper is accepted**, just as we did with our [**CRMOT**](https://github.com/chen-si-jia/CRMOT)  project.
+**Note:** We will fully open-source our **ReaMOT Challenge benchmark** (including its dataset and evaluation metrics code) and **ReaTrack framework** (including its code and model weights) **after the paper is accepted**, just like our [**CRMOT**](https://github.com/chen-si-jia/CRMOT)  project.
 
 
 Thanks for your attention! If you are interested in our work, please give us a star ⭐️.
