@@ -1,7 +1,7 @@
 # 🚀 ReaMOT: A Benchmark and Framework for Reasoning-based Multi-Object Tracking
 
 > [**ReaMOT: A Benchmark and Framework for Reasoning-based Multi-Object Tracking**](https://arxiv.org/abs/2412.17807)            
-> Sijia Chen, Yanqiu Yu, En Yu, Wenbing Tao                 
+> Sijia Chen *, Yanqiu Yu *, En Yu *, Wenbing Tao                 
 > *[ArXiv] Paper ([https://arxiv.org/abs/2412.17807](https://arxiv.org/abs/2412.17807))*           
 
 **Note:** We will fully open-source our **ReaMOT Challenge benchmark** (including its dataset and evaluation metrics code) and **ReaTrack framework** (including its code and model weights) **after the paper is accepted**, just like our [**CRMOT**](https://github.com/chen-si-jia/CRMOT)  project.
