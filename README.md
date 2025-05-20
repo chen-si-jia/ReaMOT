@@ -10,7 +10,7 @@
 Thanks for your attention! If you are interested in our work, please give us a star ⭐️.
 
 
-## ReaMOT vs RMOT
+## 🔍 ReaMOT vs RMOT
 
 ![](asset/ReaMOT.jpg)
 
@@ -19,7 +19,7 @@ As shown in the above Figure (a), for the language instruction "The cars on the 
 **In contrast**, as shown in the above Figure (b), for the language instruction "The players of that team with clear tactics and high organization.", the ReaMOT task requires the models to engage in a deep reasoning process, analyzing aspects such as offensive strategies, tactical execution, defensive positioning, and reaction speed of both teams, to accurately deduce the players of the target team that match the language instruction and track their trajectories.
 
 
-## Abstract
+## ✨ Abstract
 Referring Multi-object tracking (RMOT) is an important research field in computer vision. Its task form is to guide the models to track the objects that conform to the language instruction. However, the RMOT task commonly requires clear language instructions, such methods often fail to work when complex language instructions with reasoning characteristics appear. 
 
 In this work, we propose a new task, called **Rea**soning-based **M**ulti-**O**bject **T**racking (**ReaMOT**). ReaMOT is a more challenging task that requires accurate reasoning about objects that match the language instruction with reasoning characteristic and tracking the objects' trajectories. 
@@ -29,12 +29,12 @@ To advance the ReaMOT task and evaluate the reasoning capabilities of tracking m
 In addition, we propose a set of evaluation metrics tailored for the ReaMOT task. Furthermore, we propose **ReaTrack**, a training-free framework for reasoning-based multi-object tracking based on large vision-language models (LVLM) and SAM2, as a baseline for the ReaMOT task. Extensive experiments on the ReaMOT Challenge benchmark demonstrate the effectiveness of our ReaTrack framework.
 
 
-## Pipeline of ReaTrack
+## ⚡️ Pipeline of ReaTrack
 
 ![](asset/pipeline.jpg)
 
 
-## Experimental Results
+## 😮 Experimental Results
 ### Table: Performance of many methods on the test set of the ReaMOT Challenge benchmark under zero-shot conditions. ↑ indicates that higher score is better. The best results are marked in **bold**.
 
 | Method              | Published     | Easy RIDF1↑   | Easy RMOTA↑    | Easy RRcll↑    | Easy RPrcn↑    | Medium RIDF1↑  | Medium RMOTA↑  | Medium RRcll↑  | Medium RPrcn↑  | Hard RIDF1↑      | Hard RMOTA↑      | Hard RRcll↑      | Hard RPrcn↑      |
@@ -74,7 +74,7 @@ References:
 [7] Shuai Bai, Keqin Chen, Xuejing Liu, Jialin Wang, Wenbin Ge, Sibo Song, Kai Dang, Peng Wang, Shijie Wang, Jun Tang, Humen Zhong, Yuanzhi Zhu, Mingkun Yang, Zhaohai Li, Jianqiang Wan, Pengfei Wang, Wei Ding, Zheren Fu, Yiheng Xu, Jiabo Ye, Xi Zhang, Tianbao Xie, Zesen Cheng, Hang Zhang, Zhibo Yang, Haiyang Xu, Junyang Lin and others. Qwen2. 5-vl technical report[J]. arXiv preprint arXiv:2502.13923. 2025.
 
 
-## Citation
+## ✏️ Citation
 ```
 
 ```
