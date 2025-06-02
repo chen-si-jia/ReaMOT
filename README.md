@@ -78,7 +78,7 @@ References:
 ## ✏️ Citation
 ```
 @article{chen2025reamot,
-  title={ReaMOT: A benchmark and framework for reasoning-based multi-object tracking},
+  title={ReaMOT: A Benchmark and Framework for Reasoning-based Multi-Object Tracking},
   author={Chen, Sijia and Yu, Yanqiu and Yu, En and Tao, Wenbing},
   journal={arXiv preprint arXiv:2505.20381},
   year={2025}
