@@ -7,7 +7,7 @@
 
 **Note:** 
 
-Upon acceptance of our paper, we will fully open-source our **ReaMOT Challenge benchmark** (including its dataset and evaluation code) and **ReaTrack framework** (including its code and model weights) **within a week**, **just like our [**CRMOT**](https://github.com/chen-si-jia/CRMOT) , [Trajectory-Long-tail-Distribution-for-MOT](https://github.com/chen-si-jia/Trajectory-Long-tail-Distribution-for-MOT) projects**.
+Upon acceptance of our paper, we will **fully open-source** our ReaMOT Challenge benchmark and ReaTrack framework **within a week**, just like our [**CRMOT**](https://github.com/chen-si-jia/CRMOT) , [**Trajectory-Long-tail-Distribution-for-MOT**](https://github.com/chen-si-jia/Trajectory-Long-tail-Distribution-for-MOT) projects.
 
 Thanks for your attention! If you are interested in our work, please give us a star ⭐️.
 
